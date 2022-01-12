@@ -9,7 +9,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JefersonMarcondes&show_icons=true&theme=)
 
-## Tecnologias que uso no meu dia-a-dia:
+## Tecnologias que uso no meu dia a dia:
 
 <div style="display: incline_block"></br>
 
