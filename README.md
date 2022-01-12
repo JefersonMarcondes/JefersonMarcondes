@@ -26,7 +26,7 @@
 
 </div></br>
 
-## Linguagem que eu estou aprendendo:
+## Tecnologia que eu estou aprendendo:
 
 ![kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
 
