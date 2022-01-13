@@ -2,6 +2,10 @@
 
 #### Olá! Eu sou o Jeferson Marcondes 🤝
 
+<div class="pic">
+<img src="https://images.unsplash.com/photo-1569396116180-210c182bedb8?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mzh8fGNvZGV8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60" alt="">
+</div>
+
 
 [![Contact](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jefersonmarcondess/)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jefersonmarcondes/)
